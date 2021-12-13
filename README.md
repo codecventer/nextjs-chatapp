@@ -30,7 +30,7 @@ npm install
 3. Install dependencies on client application:
 ```
 cd ../client
-npm intall
+npm install
 ```
 4. From the root directory in the client application, create .env.local file for your own Supabase credentials and store your Supabase project URL and Supabase Anon Key as environmental variables - e.g NEXT_PUBLIC_SUPABASE_URL="https://your-supabase-url.supabase.co"
 5. Start the server:
