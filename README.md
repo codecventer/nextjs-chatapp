@@ -5,10 +5,15 @@ This simple real-time chat application was developed using Next.js, Socket.io an
 After building client-server applications with web sockets using Java, I was really eager to create a React based application using Socket.io and Supabase for user authentication.
 
 ## Screenshots
+- Login page:
 ![login](img/login.jpg)
+- Send magic link:
 ![magic-link](img/magic-link.jpg)
+- Magic link email:
 ![email](img/email.jpg)
+- Logged in home page:
 ![home](img/home.jpg)
+- Chat page:
 ![chat](img/chat.jpg)
 
 ## Tech/framework used
