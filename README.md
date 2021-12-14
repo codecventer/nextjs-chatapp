@@ -6,7 +6,6 @@ After building client-server applications with web sockets using Java, I was rea
 
 ## Screenshots
 ![login](img/login.jpg)
-![magic-link](img/magic-link.jpg)
 ![home](img/home.jpg)
 ![chat](img/chat.jpg)
 
